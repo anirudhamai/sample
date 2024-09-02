@@ -1,11 +1,4 @@
-﻿class Calculator
-{
-    public int add(int a, int b)
-    {
-        return a + b;
-    }
-}
-
+﻿using MyApp;
 class mainCLass
 { 
     public static void Main (String[] Args)

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B29AB9D5-7B75-46AF-8DE9-D7395E058F94}|MyApp.Tests\\MyApp.Tests.csproj|c:\\users\\anirudhabhat\\desktop\\trials\\web dev\\samplesolution\\sample\\myapp.tests\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29AB9D5-7B75-46AF-8DE9-D7395E058F94}|MyApp.Tests\\MyApp.Tests.csproj|solutionrelative:myapp.tests\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34990E57-1C5E-4B8D-8951-4460DBF354C0}|MyApp\\MyApp.csproj|c:\\users\\anirudhabhat\\desktop\\trials\\web dev\\samplesolution\\sample\\myapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34990E57-1C5E-4B8D-8951-4460DBF354C0}|MyApp\\MyApp.csproj|solutionrelative:myapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34990E57-1C5E-4B8D-8951-4460DBF354C0}|MyApp\\MyApp.csproj|c:\\users\\anirudhabhat\\desktop\\trials\\web dev\\samplesolution\\sample\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34990E57-1C5E-4B8D-8951-4460DBF354C0}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "MyApp\\Calculator.cs",
+              "ToolTip": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp\\Calculator.cs",
+              "RelativeToolTip": "MyApp\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:54:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerTest.cs",
+              "DocumentMoniker": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp.Tests\\CustomerTest.cs",
+              "RelativeDocumentMoniker": "MyApp.Tests\\CustomerTest.cs",
+              "ToolTip": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp.Tests\\CustomerTest.cs",
+              "RelativeToolTip": "MyApp.Tests\\CustomerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:49:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp\\Program.cs",
               "RelativeDocumentMoniker": "MyApp\\Program.cs",
               "ToolTip": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Web Dev\\SampleSolution\\sample\\MyApp\\Program.cs",
               "RelativeToolTip": "MyApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T06:24:10.157Z",
               "EditorCaption": ""
